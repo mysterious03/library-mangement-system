@@ -1,0 +1,14 @@
+# Binaries and build output
+bin/
+smart-library.jar
+
+# H2 Database runtime files
+*.mv.db
+*.trace.db
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
